@@ -1,2 +1,3 @@
-# busStop
-This is a custom animated site for a virtual meetup
+# BusStop
+A website for a virtual busstop
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
